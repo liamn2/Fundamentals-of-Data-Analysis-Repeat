@@ -1,0 +1,23 @@
+Name: Liam Nutley
+Student ID: G00326421
+Module: Fundamental of Data Analysis
+
+The following is a file detailing requirements for running the notebooks and catalogues all data files in the repository.
+
+Notebooks can be run through the Anaconda Navigator by navigating to the Jupyter Notebook functionality. Opens PC directory where downloaded file can be selected and displayed in web browser. You will need to install Anaconda on your system if not done previously.
+
+Data files contained in repository:
+2 CSV Files:
+-------------------------
+1.) Copy of CAOPointsCharts2020 - CAOPointsCharts2020: A CSV in six columns, providing Subject, Course, Course Code, Points, Level and College for each course available in 2020.
+
+2.) Copy of CAO 2021 - CAO - A CSV in six columns, providing Subject, Course, Course Code, Points, Level and College for each course available in 2021.
+
+3 image files:
+-------------------------
+1.) caologo - Logo for the Central Applications Office in Ireland.
+
+2.) matplotlib - Logo for the matplotlib library.
+
+3.) pandas - Logo for the pandas library.
+
