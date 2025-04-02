@@ -1,4 +1,4 @@
-# Fundamentals-of-Data-Analysis-Repeat
+# Fundamentals-of-Data-Analysis
 Name: Liam Nutley
 Student ID: G00326421
 Module: Fundamental of Data Analysis
